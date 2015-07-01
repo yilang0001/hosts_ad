@@ -11,3 +11,8 @@
 0.0.0.0 smartprofits.org
 0.0.0.0 download.televisionfanatic.com
 0.0.0.0 www.123mymovies.com
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 cpro.baidu.com
+0.0.0.0 union.baidu.com
+0.0.0.0 cb.baidu.com
+
