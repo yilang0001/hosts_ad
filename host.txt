@@ -15,4 +15,5 @@
 0.0.0.0 cpro.baidu.com
 0.0.0.0 union.baidu.com
 0.0.0.0 cb.baidu.com
-
+0.0.0.0 adslvfile.qq.com
+0.0.0.0 adsfile.qq.com
