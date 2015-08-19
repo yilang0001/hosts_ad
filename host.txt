@@ -17,3 +17,5 @@
 0.0.0.0 cb.baidu.com
 0.0.0.0 adslvfile.qq.com
 0.0.0.0 adsfile.qq.com
+0.0.0.0 p.tanx.com
+0.0.0.0 cpro.baidustatic.com
