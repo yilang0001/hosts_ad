@@ -20,3 +20,7 @@
 0.0.0.0 p.tanx.com
 0.0.0.0 cpro.baidustatic.com
 0.0.0.0 www.googleadservices.com
+0.0.0.0 ubmcmm.baidustatic.com
+0.0.0.0 s1.2mdn.net
+0.0.0.0 static.tigerbrokers.com
+0.0.0.0 cpro.baidu.com
