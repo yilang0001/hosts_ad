@@ -12,7 +12,6 @@
 0.0.0.0 download.televisionfanatic.com
 0.0.0.0 www.123mymovies.com
 0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 cpro.baidu.com
 0.0.0.0 union.baidu.com
 0.0.0.0 cb.baidu.com
 0.0.0.0 adslvfile.qq.com
@@ -22,3 +21,15 @@
 0.0.0.0 www.googleadservices.com
 0.0.0.0 click.aliyun.com
 0.0.0.0 static.cnbetacdn.com
+0.0.0.0 pos.baidu.com
+0.0.0.0.0 pos.baidu.com
+0.0.0.0.0 hm.baidu.com
+0.0.0.0.0 eclick.baidu.com
+0.0.0.0.0 cpro2.baidustatic.com
+0.0.0.0.0 cpro.baidustatic.com
+0.0.0.0.0 baidustatic.com
+0.0.0.0.0 bdstatic.com
+0.0.0.0.0 bdstatic.cn
+0.0.0.0.0 cbjs.baidu.com
+0.0.0.0.0 cpro.baidu.com 
+0.0.0.0.0 hm.baidu.com 
